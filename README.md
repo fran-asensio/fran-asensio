@@ -37,8 +37,8 @@ Desarrollador enfocado en construir aplicaciones robustas que conectan experienc
 
 ### 📉 GitHub Insights
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fran-asensio&show_icons=true&theme=nord&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fran-asensio&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=fran-asensio&show_icons=true&theme=nord&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=fran-asensio&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
